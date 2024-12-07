@@ -1,0 +1,12 @@
+C:\Users\Lenovo ideapad\source\repos\SDF-2\SDF-2\obj\Debug\SDF-2.csproj.AssemblyReference.cache
+C:\Users\Lenovo ideapad\source\repos\SDF-2\SDF-2\obj\Debug\SDF_2.Forms.AddExpenseTypeForm.resources
+C:\Users\Lenovo ideapad\source\repos\SDF-2\SDF-2\obj\Debug\SDF_2.Forms.LoginForm.resources
+C:\Users\Lenovo ideapad\source\repos\SDF-2\SDF-2\obj\Debug\SDF_2.Forms.MainForm.resources
+C:\Users\Lenovo ideapad\source\repos\SDF-2\SDF-2\obj\Debug\SDF_2.Properties.Resources.resources
+C:\Users\Lenovo ideapad\source\repos\SDF-2\SDF-2\obj\Debug\SDF-2.csproj.GenerateResource.cache
+C:\Users\Lenovo ideapad\source\repos\SDF-2\SDF-2\obj\Debug\SDF-2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo ideapad\source\repos\SDF-2\SDF-2\bin\Debug\SDF-2.exe.config
+C:\Users\Lenovo ideapad\source\repos\SDF-2\SDF-2\bin\Debug\SDF-2.exe
+C:\Users\Lenovo ideapad\source\repos\SDF-2\SDF-2\bin\Debug\SDF-2.pdb
+C:\Users\Lenovo ideapad\source\repos\SDF-2\SDF-2\obj\Debug\SDF-2.exe
+C:\Users\Lenovo ideapad\source\repos\SDF-2\SDF-2\obj\Debug\SDF-2.pdb
